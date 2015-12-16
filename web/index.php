@@ -783,16 +783,17 @@
 							<h3 class="footer-subheader">TLDR</h3>
 							<ul class="footer-list">
 								<li class="footer-list__item">Graduated from <a href="http://www.rit.edu/" target="_blank" data-analytics="link|footer|RIT|true">RIT</a> with a BFA in New Media Design &amp; Imaging in 2013. Go&nbsp;Tigers!</li>
-								<li class="footer-list__item">Worked at <a href="http://www.firstborn.com/" target="_blank" data-analytics="link|footer|Firstborn|true">Firstborn</a> for a year making websites.</li>
+								<li class="footer-list__item">Worked at <a href="http://www.firstborn.com/" target="_blank" data-analytics="link|footer|Firstborn|true">Firstborn</a> for a year making websites. Moved to Colorado, and worked at <a href="http://www.mondorobot.com/" target="_blank" data-analytics="link|footer|Mondo Robot|true">Mondo Robot</a> for a few months before going solo.</li>
 								<li class="footer-list__item">Currently freelancing and looking for exciting challenges to take my skills to the next level.</li>
 								<li class="clearfix"></li>
 							</ul>
 
 							<h3 class="footer-subheader">TLDR: The Director's Cut</h3>
 							<ul class="footer-list">
-								<li class="footer-list__item is-text">I recently graduated from RIT in Rochester, NY in May of 2013 with a BFA in New&nbsp;Media Design&nbsp;&amp;&nbsp;Imaging. Growing up as a developer my whole life, I had never really pursued art in any way. I decided to get a design degree (while in college for Game Design) in hopes to help balance my skills between design and development. A few art history classes later and I was a developer with design skills!</li>
+								<li class="footer-list__item is-text">I graduated from RIT in Rochester, NY in May of 2013 with a BFA in New&nbsp;Media Design&nbsp;&amp;&nbsp;Imaging. Growing up as a developer my whole life, I had never really pursued art in any way. I decided to get a design degree (while in college for Game Design) in hopes to help balance my skills between design and development. A few art history classes later and I was a developer with design skills!</li>
 								<li class="footer-list__item is-text">My first job out of school was at New York-based digital ad agency Firstborn. As a developer there, I created websites using HTML5 (JavaScript, CSS, etc), and became more familiar with tech such as Grunt, Node/npm, and TypeScript.</li>
-								<li class="footer-list__item is-text">Currently, I am freelancing in Buffalo, NY (as seen in the 2001 hit animated film <a href="https://www.youtube.com/watch?v=7diGY1CIrVQ" target="_blank">Osmosis Jones</a>). When I'm not working, I'm studying things like Clojure or Redis, and playing way too much StarCraft.</li>
+								<li class="footer-list__item is-text">After getting hired by Mondo Robot, I moved to Boulder, Colorado and worked on both small and large projects in Rails/Sitecore environments. Eventually, I decided to pursue a career as a contract developer, and here I am today!</li>
+								<li class="footer-list__item is-text">Currently, I am freelancing in Boulder, CO (as seen in the hit TV series <a href="https://www.youtube.com/watch?v=gDFIMAPLp4w" target="_blank">Mork and Mindy</a>). When I'm not working, I like to play videogames, and all the countless outdoorsy things you can do in Colorado (hiking, snowboarding, etc).
 								<li class="footer-list__item is-text">I'm actively searching for challenging opportunities that can really push me to my limits. Have a lead on something good? Get in touch with me via <a href="mailto:andy.mikulski@gmail.com">email</a>!</li>
 								<li class="clearfix"></li>
 							</ul>
@@ -801,26 +802,24 @@
 						<div class="col span_2">
 							<h3 class="footer-subheader">Currently</h3>
 							<ul>
-								<li class="footer-list__item">Job Hunting</li>
-								<li class="footer-list__item">Building a Side Project</li>
-								<li class="footer-list__item">Learning Clojure</li>
-								<li class="footer-list__item">Learning Redis</li>
+								<li class="footer-list__item">Accepting work offers</li>
+								<li class="footer-list__item">Building a side project</li>
+								<li class="footer-list__item">Totally <i>slaying</i> in CS:GO</li>
 								<li class="clearfix"></li>
 							</ul>
 
 							<h3 class="footer-subheader">Listening</h3>
 							<ul>
-								<li class="footer-list__item"><span class="footer-title">Else</span> Ariane <a class="song-link" href="https://soundcloud.com/lordrecollectif/else-ariane" target="_blank" data-analytics="link|footer|Ariane|true">(SoundCloud)</a></li>
-								<li class="footer-list__item"><span class="footer-title">NOFX</span> Eat the Meek <a class="song-link" href="http://grooveshark.com/#!/s/Eat+The+Meek/2Dtwf8?src=5" target="_blank" data-analytics="link|footer|Eat the Meek|true">(Grooveshark)</a></li>
-								<li class="footer-list__item"><span class="footer-title">The Geek x Vrv</span> Lazy Love <a class="song-link" href="https://soundcloud.com/thegeek/lazy-love" target="_blank" data-analytics="link|footer|Lazy Love|true">(SoundCloud)</a></li>
+								<li class="footer-list__item"><span class="footer-title">SoulChef</span> Hello <a class="song-link" href="https://soundcloud.com/bluebottlerecords/soulchef-hello" target="_blank" data-analytics="link|footer|SoulChef|true">(SoundCloud)</a></li>
+								<li class="footer-list__item"><span class="footer-title">NOFX</span> The Decline <a class="song-link" href="https://www.youtube.com/watch?v=qnFVMkTWaBw" target="_blank" data-analytics="link|footer|The Decline|true">(YouTube)</a></li>
+								<li class="footer-list__item"><span class="footer-title">Sam Gouthro</span> Funkee <a class="song-link" href="https://soundcloud.com/sgouthro/funkee-prod-sam-gouthro-jordan-elgie" target="_blank" data-analytics="link|footer|Funkee|true">(SoundCloud)</a></li>
 								<li class="clearfix"></li>
 							</ul>
 
 							<h3 class="footer-subheader">Playing</h3>
 							<ul>
-								<li class="footer-list__item">StarCraft II</li>
-								<li class="footer-list__item">Team Fortress 2</li>
-								<li class="footer-list__item"><s>Bioshock Infinite</s></li>
+								<li class="footer-list__item">Counter-Strike: Global Offensive</li>
+								<li class="footer-list__item">The Last of Us</li>
 								<li class="clearfix"></li>
 							</ul>
 						</div>
