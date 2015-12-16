@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteBase /portfolio/assets/scripts/test/
+
+RewriteCond %{THE_REQUEST} (.*)\.php
+RewriteRule ^(.*)\.php $1.js [R=301,L]
+
+RewriteCond %{THE_REQUEST} (.*)\.js
+RewriteRule ^(.*)\.js $1.php [L]

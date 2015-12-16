@@ -1,0 +1,45 @@
+<div widget="codeEditor">
+	<div class="titleBar">
+		<ul class="buttons">
+			<li class="red close"></li>
+			<li class="yellow minimize"></li>
+			<li class="green maximize"></li>
+		</ul>
+		<span class="title">untitled</span>
+	</div>
+
+	<div class="folders" sub-widget="sidebar">
+		<h2>Folders</h2>
+		<ul>
+			<li class="dir"><span>folder</span>
+				<ul>
+					<li class="dir"><span>css</span>
+						<ul>
+							<li class="file" data-tab="app.css">app.css</li>
+						</ul>
+					</li>
+					<li class="dir"><span>js</span>
+						<ul>
+							<li class="file"  data-tab="site.js">site.js</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<ul class="tabs">
+		<li class="tab" data-tab="readme.md">readme.md</li>
+		<li class="tab" data-tab="app.css">app.css</li>
+		<li class="tab" data-tab="site.js">site.js</li>
+	</ul>
+
+	<pre data-tab="readme.md" data-format="md"><code></code></pre>
+	<pre class="is-active" data-tab="app.css" data-format="css"><code></code></pre>
+	<pre data-tab="site.js" data-format="javascript"><code></code></pre>
+
+	<div class="clear"></div>
+	<div class="footer">
+		<span class="lineCol"></span>
+		<span class="fileType"></span>
+	</div>
+</div>
